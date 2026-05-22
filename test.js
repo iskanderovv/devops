@@ -1,4 +1,4 @@
 console.log('Starting tests...');
-settimeout(() => {
+setTimeout(() => {
     console.log('Tests completed!');
 }, 2000);
